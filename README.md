@@ -118,8 +118,8 @@ Tantangan utama adalah kesulitan membedakan klaim asuransi perjalanan yang valid
 
 ## Kontributor
 - **Dinmar Pratama**: Analisis data, pengembangan model, dan analisis bisnis.
-LinkedIn: [Dinmar Pratama](https://www.linkedin.com/in/dinmar-pratama-2516b8224/)
-Medium: [Dinmar Pratama](https://medium.com/@dinmarpratama)
+**LinkedIn**: [Dinmar Pratama](https://www.linkedin.com/in/dinmar-pratama-2516b8224/)
+**Medium**: [Dinmar Pratama](https://medium.com/@dinmarpratama)
 
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya.
