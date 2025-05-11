@@ -117,7 +117,9 @@ Tantangan utama adalah kesulitan membedakan klaim asuransi perjalanan yang valid
 - Integrasikan fitur deteksi penipuan untuk mengurangi risiko finansial lebih lanjut.
 
 ## Kontributor
-- **Dinmar Pratama**: Pemimpin proyek, analisis data, pengembangan model, dan analisis bisnis.
+- **Dinmar Pratama**: Analisis data, pengembangan model, dan analisis bisnis.
+LinkedIn: [Dinmar Pratama](https://www.linkedin.com/in/dinmar-pratama-2516b8224/)
+Medium: [Dinmar Pratama](https://medium.com/@dinmarpratama)
 
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detailnya.
